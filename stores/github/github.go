@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
+	"github.com/adamkobi/go-update"
 	"github.com/google/go-github/github"
-	"github.com/tj/go-update"
 	"golang.org/x/oauth2"
 )
 
